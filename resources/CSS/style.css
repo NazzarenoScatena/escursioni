@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: gray;
+}
+
+img {
+    display: block;
+    margin: 50px auto;
+}
